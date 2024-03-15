@@ -1,0 +1,11 @@
+header{
+    height: 100px;
+    background-color: pink;
+}
+ footer{
+    height: 100px;
+    background-color: rgb(254, 75, 105);
+ }
+ input{
+    background-color: rgb(72, 9, 19);  
+ }
